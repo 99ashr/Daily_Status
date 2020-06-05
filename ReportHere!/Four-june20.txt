@@ -7,3 +7,8 @@ It's 7:48 in the morning and I'm planning to do some python programming than I'l
 
 Created a Javascript programme following the course of Django from Udemy.
     The Javascript reads the details of the spy and verifies it to give him the access to the database.
+
+1) Number System from edurev
+2) Percentage by Ankur Suryavanshi
+3) Questions on Ratio by Ankur Suryavanshi
+4) Concept of Variation by Ankur Suryavanshi
