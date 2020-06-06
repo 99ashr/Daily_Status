@@ -4,3 +4,5 @@ Yet another day passed studying the same topic (!SAD!)
     2) Wilson's Theorem
     3) Vedic Mathematics...
     4) Previous Year Questions on Number System, Ratios, Percentage, AP.
+    5) Vedic Tricks on number Multiplication using visualization.
+    6) Vedic Tricks on number Multiplication using base.
