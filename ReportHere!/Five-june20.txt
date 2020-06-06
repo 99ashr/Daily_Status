@@ -1,0 +1,32 @@
+My fucking mentor texted me and threatened me that he will take legal actions if 
+I don't delete files related to the company from my github.
+
+Damn fool man, he could just have asked to politely to remove it rather than 
+threatening me.
+
+
+Screw you MR.Mentor!!!
+
+
+Wait why am I spoiling my mood because of you...hehehehe, I don't care what you're 
+gonna do to me, cuz those were the initial commits of my repository and If you 
+have eyes than you can check it out in my later commits of that repo that I have 
+created a gitignore file for that file idiot.
+But I forgot to remove my commit history, and since I have deleted all the commit 
+history I don't expect you messages now.... God please save me from this idiot guy...
+
+
+
+Resumed my studies for CAT .... This is wonderful day .....
+Completed Number system from Ankur Suryavanshi's playlist
+Completed number system from edurev as Well
+
+    1) Highest power of n,
+    2) Trailing Zeros,
+    3) sum of all possible permutations of n,
+    4) If N = a^p∗ b^q∗ c^r => total factors of N are (p+1) * (q+1) * (r+1),
+    5) Positive Integral Solutions,
+    6) Basic Summation properties,
+    7) Trick to find last two digits,
+    8) Divisibility,
+    9) Cyclicity.
